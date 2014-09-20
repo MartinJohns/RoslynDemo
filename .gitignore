@@ -1,0 +1,8 @@
+
+*.cache
+obj/
+bin/
+packages/
+*.user
+*.sln.ide/
+*.suo
